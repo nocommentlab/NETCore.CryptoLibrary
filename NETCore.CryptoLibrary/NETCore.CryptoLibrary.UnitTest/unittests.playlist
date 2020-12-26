@@ -1,0 +1,54 @@
+<Playlist Version="2.0">
+  <Rule Name="Includes" Match="Any">
+    <Rule Match="All">
+      <Property Name="Solution" />
+      <Rule Match="Any">
+        <Rule Match="All">
+          <Property Name="Project" Value="NETCore.CryptoLibrary.UnitTest" />
+          <Rule Match="Any">
+            <Rule Match="All">
+              <Property Name="Namespace" Value="NETCore.CryptoLibrary.UnitTest" />
+              <Rule Match="Any">
+                <Rule Match="All">
+                  <Property Name="Class" Value="UnitTests" />
+                  <Rule Match="Any">
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="NETCore.CryptoLibrary.UnitTest.UnitTests.T1_001_EncryptStringTest" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="T1_001_EncryptStringTest" />
+                      </Rule>
+                    </Rule>
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="NETCore.CryptoLibrary.UnitTest.UnitTests.T1_002_EncryptBufferTest" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="T1_002_EncryptBufferTest" />
+                      </Rule>
+                    </Rule>
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="NETCore.CryptoLibrary.UnitTest.UnitTests.T1_003_EncryptDecryptStringTest" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="T1_003_EncryptDecryptStringTest" />
+                      </Rule>
+                    </Rule>
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="NETCore.CryptoLibrary.UnitTest.UnitTests.T1_004_EncryptDecryptBufferTest" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="T1_004_EncryptDecryptBufferTest" />
+                      </Rule>
+                    </Rule>
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="NETCore.CryptoLibrary.UnitTest.UnitTests.T2_001_HashAndVerify" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="T2_001_HashAndVerify" />
+                      </Rule>
+                    </Rule>
+                  </Rule>
+                </Rule>
+              </Rule>
+            </Rule>
+          </Rule>
+        </Rule>
+      </Rule>
+    </Rule>
+  </Rule>
+</Playlist>
