@@ -350,3 +350,15 @@ MigrationBackup/
 .ionide/
 
 
+NETCore.CryptoLibrary/NETCore.CryptoLibrary/bin/Debug/netcoreapp3.1/NETCore.CryptoLibrary.dll
+NETCore.CryptoLibrary/NETCore.CryptoLibrary/bin/Debug/netcoreapp3.1/NETCore.CryptoLibrary.pdb
+NETCore.CryptoLibrary/NETCore.CryptoLibrary/obj/Debug/netcoreapp3.1/NETCore.CryptoLibrary.assets.cache
+NETCore.CryptoLibrary/NETCore.CryptoLibrary/obj/Debug/netcoreapp3.1/NETCore.CryptoLibrary.csproj.CoreCompileInputs.cache
+NETCore.CryptoLibrary/NETCore.CryptoLibrary/obj/Debug/netcoreapp3.1/NETCore.CryptoLibrary.csproj.FileListAbsolute.txt
+NETCore.CryptoLibrary/NETCore.CryptoLibrary/obj/Debug/netcoreapp3.1/NETCore.CryptoLibrary.dll
+NETCore.CryptoLibrary/NETCore.CryptoLibrary/obj/Debug/netcoreapp3.1/NETCore.CryptoLibrary.pdb
+NETCore.CryptoLibrary/NETCore.CryptoLibrary/obj/NETCore.CryptoLibrary.csproj.nuget.dgspec.json
+NETCore.CryptoLibrary/NETCore.CryptoLibrary/obj/NETCore.CryptoLibrary.csproj.nuget.g.props
+NETCore.CryptoLibrary/NETCore.CryptoLibrary/obj/NETCore.CryptoLibrary.csproj.nuget.g.targets
+NETCore.CryptoLibrary/NETCore.CryptoLibrary/obj/project.assets.json
+NETCore.CryptoLibrary/NETCore.CryptoLibrary/obj/project.nuget.cache

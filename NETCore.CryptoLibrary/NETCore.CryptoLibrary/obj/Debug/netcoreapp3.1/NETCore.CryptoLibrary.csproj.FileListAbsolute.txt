@@ -1,9 +1,0 @@
-C:\Users\Antonio\Documents\GitHub\NETCore.CryptoLibrary\NETCore.CryptoLibrary\NETCore.CryptoLibrary\bin\Debug\netcoreapp3.1\NETCore.CryptoLibrary.deps.json
-C:\Users\Antonio\Documents\GitHub\NETCore.CryptoLibrary\NETCore.CryptoLibrary\NETCore.CryptoLibrary\bin\Debug\netcoreapp3.1\NETCore.CryptoLibrary.dll
-C:\Users\Antonio\Documents\GitHub\NETCore.CryptoLibrary\NETCore.CryptoLibrary\NETCore.CryptoLibrary\bin\Debug\netcoreapp3.1\NETCore.CryptoLibrary.pdb
-C:\Users\Antonio\Documents\GitHub\NETCore.CryptoLibrary\NETCore.CryptoLibrary\NETCore.CryptoLibrary\obj\Debug\netcoreapp3.1\NETCore.CryptoLibrary.AssemblyInfoInputs.cache
-C:\Users\Antonio\Documents\GitHub\NETCore.CryptoLibrary\NETCore.CryptoLibrary\NETCore.CryptoLibrary\obj\Debug\netcoreapp3.1\NETCore.CryptoLibrary.AssemblyInfo.cs
-C:\Users\Antonio\Documents\GitHub\NETCore.CryptoLibrary\NETCore.CryptoLibrary\NETCore.CryptoLibrary\obj\Debug\netcoreapp3.1\NETCore.CryptoLibrary.csproj.CoreCompileInputs.cache
-C:\Users\Antonio\Documents\GitHub\NETCore.CryptoLibrary\NETCore.CryptoLibrary\NETCore.CryptoLibrary\obj\Debug\netcoreapp3.1\NETCore.CryptoLibrary.dll
-C:\Users\Antonio\Documents\GitHub\NETCore.CryptoLibrary\NETCore.CryptoLibrary\NETCore.CryptoLibrary\obj\Debug\netcoreapp3.1\NETCore.CryptoLibrary.pdb
-C:\Users\Antonio\Documents\GitHub\NETCore.CryptoLibrary\NETCore.CryptoLibrary\NETCore.CryptoLibrary\obj\Debug\netcoreapp3.1\NETCore.CryptoLibrary.csprojAssemblyReference.cache
